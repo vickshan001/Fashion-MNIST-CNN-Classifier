@@ -1,4 +1,4 @@
-# 🧥 Fashion MNIST CNN Classifier – ECS759P AI Coursework (2024)
+# 🧥 Fashion MNIST CNN Classifier (2024)
 
 The goal is to build, train, and evaluate a Convolutional Neural Network (CNN) to classify clothing items from the Fashion MNIST dataset.
 
